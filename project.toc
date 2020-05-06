@@ -1,0 +1,15 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аннотация}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Постановка задачи}{1}{section.2}% 
+\contentsline {section}{\numberline {3}Описание исследуемых методов}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Критерий остановки}{2}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Исследуемые методы}{2}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Метод Якоби}{2}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Метод Зейделя с шахматным упорядочением}{3}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Метод верхней релаксации с шахматным упорядочением}{3}{subsubsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.3}Теоретическое сравнение скорости сходимости}{3}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Результаты}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Численное решение}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Численное сравнение скорости сходимости}{5}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Скорость сходимости по сетке}{5}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Вывод}{6}{section.5}% 
